@@ -1,0 +1,11 @@
+#include<stdio.h>
+voidsum()
+{
+int a=5,b=3,sum;
+sum=a+b;
+printf("\n sum=%d",sum);
+}
+void main()
+{
+  sum()
+}
